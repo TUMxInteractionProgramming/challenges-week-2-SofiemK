@@ -60,7 +60,7 @@ background-color:white;
     background-color: white;
     border: 0px;
     font-size: 13px;
-
+    box-sizing: border-box;
     width: 33%;
     height: 72px;
     padding: 16px;
